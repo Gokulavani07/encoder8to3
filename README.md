@@ -47,6 +47,8 @@ Procedure
 * Simulate and check outputs.
 
 PROGRAM
+
+
  Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming.
 
 Developed by:GOKULAVANI.R
@@ -58,4 +60,6 @@ RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling
 TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling
 
 RESULT
+
+
 thus we implement encoder 8 to 3 in dataflow modelling using verilog and validating their functionality using functionality table has been done using Quartus software.
